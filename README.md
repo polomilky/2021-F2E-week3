@@ -18,6 +18,7 @@ yarn serve
 
 ## 使用技術
 - Vue Cli
+- vuetify
 - Axios
 
 ## Project setup
